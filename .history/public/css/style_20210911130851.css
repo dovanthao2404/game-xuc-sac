@@ -1,0 +1,23 @@
+.main {
+  background-image: url(./../images/bgGame.png);
+  top: 0;
+  left:0;
+  right: 0;
+  bottom: 0;
+  display: block;
+  position: absolute;
+  z-index: -10;
+}
+
+.type span{
+  display: block;
+  padding: 50px;
+  border-radius: 24px;
+  font-size: 40px;
+  background: rgb(149, 114, 231);
+}
+
+img {
+  margin: 0 8px;
+  width: 100;
+}

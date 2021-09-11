@@ -1,0 +1,14 @@
+.main {
+  background-image: url(./../images/bgGame.png);
+  top: 0;
+  left:0;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.type span{
+  display: block;
+  padding: 30px
+  /* background: */
+}

@@ -1,0 +1,1 @@
+const UPDATE_TYPE = "game/UPDATE_TYPE";

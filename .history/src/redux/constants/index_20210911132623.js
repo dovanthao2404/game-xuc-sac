@@ -1,0 +1,4 @@
+const UPDATE_TYPE = "game/UPDATE_TYPE";
+const UPDATE_TOTAL_WIN = "game/UPDATE_TOTAL_WIN";
+
+export { UPDATE_TYPE, UPDATE_TOTAL_WIN }

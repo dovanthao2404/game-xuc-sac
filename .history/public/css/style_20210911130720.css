@@ -1,0 +1,16 @@
+.main {
+  background-image: url(./../images/bgGame.png);
+  top: 0;
+  left:0;
+  right: 0;
+  bottom: 0;
+  display: block;
+  position: absolute;
+  z-index: -10;
+}
+
+.type span{
+  display: block;
+  padding: 30px;
+  background: rgb(149, 114, 231);
+}
